@@ -142,4 +142,5 @@ STATIC_ROOT = BASE_DIR / "staticfiles"
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
+    "https://todo-frontend-j1f0.onrender.com"
 ]
